@@ -29,4 +29,4 @@ Ce type d’entretien permet de s’assurer de ce qui est prépondérant pour mo
 
 ## Une mise en garde peut être
 
-Comme indiqué dans le titre, j’ai conscience que mon expérience est peut être valable car je recrute des ingénieurs en informatique (Software Engineer) à qui l’on demande un bon degré d’autonomie dans la prise de décision et de collaboration, et non des développeurs (Software Developer) où souvent la description de poste recherche des compétences techniques avant des compétences de collaboration et de communication.
+Comme indiqué dans le titre, je rappelle que mon expérience peut être valable car je recrute des ingénieurs en informatique (Software Engineer) à qui l’on demande un bon degré d’autonomie dans la prise de décision et de collaboration, et non des développeurs (Software Developer) où souvent la description de poste recherche des compétences techniques avant des compétences, d'autonomie, de collaboration et de communication.
